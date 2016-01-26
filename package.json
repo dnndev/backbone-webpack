@@ -1,0 +1,23 @@
+{
+  "name": "dnndev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly Ford",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "codemirror": "^5.11.0",
+    "handlebars": "^4.0.5",
+    "handlebars-loader": "^1.1.4",
+    "underscore": "^1.8.3",
+    "webpack": "^1.12.12"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.1",
+    "jshint-loader": "^0.8.3"
+  }
+}
